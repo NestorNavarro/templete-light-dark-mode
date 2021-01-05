@@ -3,8 +3,8 @@ This project is a template that you can to use for do your own page with light a
 about, projects and contact. You are free use it and modify whatever you want. 
 
 ## Illustrations
-[Light Mode](/img/img_light.png)
-[Dark Mode](/img/img_dark.png)
+[Light Mode](./img/img_light.PNG)
+[Dark Mode](./img/img_dark.PNG)
 ## Motivation for this project
 This project came from a course in udemy [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://academy.zerotomastery.io/p/javascript-projects). 
 You can to learn a lots with this course about javascript .  I encourage you to check it.
