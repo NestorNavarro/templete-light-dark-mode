@@ -14,3 +14,6 @@ You can to learn a lots with this course about javascript .  I encourage you to 
 * [Undraw](https://undraw.co/illustrations) -Illustrations
 * [Fontawesome](https://fontawesome.com/) -Icons
 
+## Deployment
+Project [view](https://nestornavarro.github.io/templete-light-dark-mode/)
+
