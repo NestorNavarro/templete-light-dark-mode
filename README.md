@@ -1,5 +1,5 @@
 # templete-light-dark-mode
-This project is a template that you can to use for do your own page with light and dark mode. This project has a page where you will find a multiple sections such as home, about, projects and contact. You are free use it and modify whatever you want. 
+This project is a template that you can to use for doing your own page with light and dark mode. This project has a page where you can find a multiple sections such as home, about, projects and contact. You are free use it and modify whatever you want. 
 
 ## Objetive 
 The objetive of this app is practies and leanr more about javascript, html and css.
